@@ -1,4 +1,4 @@
-# Artic Delta v2.1
+# Artic Delta
 
 **Artic Delta** is a professional, high-precision performance monitoring tool for Android. It provides real-time frame rate data through a lightweight, non-intrusive floating overlay, designed specifically for gamers who need accurate data without compromising system performance.
 
@@ -27,7 +27,7 @@ Artic Delta relies on the **"Single App Recording"** feature for maximum accurac
 *   **Requirement**: This feature requires **Android 14 (API Level 34) or higher**.
 *   **Device Compatibility**: Currently, this app works best on **Pixel devices, Stock Android, and AOSP-based Custom ROMs** that provide the official "Single App" selection dialog. 
 
-Some manufacturers (such as Samsung, Xiaomi, etc.) may hide this option in their custom system skins, forcing the app to capture the **"Entire Screen."** In Entire Screen mode, the meter will detect all visual updates, including system UI animations and **120Hz "Touch Boost" spikes** triggered by your finger input. This is a platform-level limitation of the Android security sandbox for non-root apps on certain proprietary skins.
+Some manufacturers (such as Samsung, Xiaomi, etc.) may hide this option in their custom system skins, forcing the app to capture the **"Entire Screen."** In Entire Screen mode, the meter will detect all visual updates, including system UI animations and **Refresh rate "Touch Boost" spikes** triggered by your finger input. This is a platform-level limitation of the Android security sandbox for non-root apps on certain proprietary skins.
 
 ## 👥 Community & Support
 
@@ -47,3 +47,4 @@ Artic Delta is **proprietary software**. You are permitted to download and use t
 ---
 
 **Developed with ❤️ by @Akhilraj739**
+
