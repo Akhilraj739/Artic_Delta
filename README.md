@@ -24,7 +24,7 @@
 
 Artic Delta relies on the **"Single App Recording"** feature introduced in Android 14 for maximum accuracy. 
 
-Some manufacturers (such as Samsung, Xiaomi, etc.) may hide this option in their custom system dialogs, forcing the app to capture the **"Entire Screen."** In Entire Screen mode, the meter will detect all visual updates, including system UI animations (like the clock) and **120Hz "Touch Boost" spikes** triggered by your finger input. This is a limitation of the Android security sandbox for non-root apps on certain custom skins.
+Some manufacturers (such as Samsung, Xiaomi, etc.) may hide this option in their custom system dialogs, forcing the app to capture the **"Entire Screen."** In Entire Screen mode, the meter will detect all visual updates, including system UI animations (like the clock) and **Refresh Rate "Touch Boost" spikes** triggered by your finger input. This is a limitation of the Android security sandbox for non-root apps on certain custom skins.
 
 ## 👥 Community & Support
 
@@ -44,4 +44,5 @@ Artic Delta is **proprietary software**. You are permitted to download and use t
 ---
 
 **Developed with ❤️ by @Akhilraj739**
+
 
