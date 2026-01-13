@@ -6,6 +6,14 @@
 
 **Artic Delta** is a professional, high-precision performance monitoring tool for Android. It provides real-time frame rate data through a lightweight, non-intrusive floating overlay, designed specifically for gamers who need accurate data without compromising system performance.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/main_screen.png" width="30%" />
+  <img src="screenshots/overlay_preview.png" width="30%" />
+  <img src="screenshots/overlay_preview0.png" width="30%" />
+</p>
+
 ## 🚀 Key Features
 
 *   **Zero Special Privileges**: Requires **No Root** and **No ADB** setup. Just install and use.
@@ -51,6 +59,7 @@ Artic Delta is **proprietary software**. You are permitted to download and use t
 ---
 
 **Developed with ❤️ by @Akhilraj739**
+
 
 
 
